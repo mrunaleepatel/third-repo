@@ -8,5 +8,14 @@ body {
   h3 {
     color: #FFA500; 
   }
+  .projects {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .projects li {
+    width: 30%;
+    margin: 0 1%;
+  }
   
     
